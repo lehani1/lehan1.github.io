@@ -1,6 +1,6 @@
 ## Lehani's portfolio
 
-### Education
+## Education
   - Sophomore @ NIT Rourkela
   - Diploma Level @ IITM Bsc. Degree programme
 
