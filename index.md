@@ -1,5 +1,9 @@
 ## Lehani's portfolio
 
+## Contact
+  - Twitter : @Lehani_
+  - E-mail : 21f1003574@student.onlinedegree.iitm.ac.in
+
 ## Education
   - Sophomore @ NIT Rourkela
   - Diploma Level @ IITM Bsc. Degree programme
