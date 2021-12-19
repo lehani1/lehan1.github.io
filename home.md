@@ -11,5 +11,8 @@
     - In this project I made a digital version of it, in this you can add new cards and also review the cards.
    - You can check the app by clicking [this link](https://madfinalproject.lehanirajraj.repl.co/) , it is hosted in replit.
    - You can check the repository by clikcing [this link](https://github.com/lehani1/FlashCard-App)
+ 
+ <br/>
+  
   ### Project 2 : Ping App
     - Under production, will be updated as soon as it is ready to deploy.
