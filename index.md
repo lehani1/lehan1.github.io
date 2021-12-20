@@ -1,5 +1,8 @@
 ## Lehani's portfolio
 
+## About me
+  Hello! I'm Lehani Raj. I'm an engineering sophomore and an aspiring data scientist. The motivation for data science comes from my love for technology, reasearch and lots of data on the internet to be analysed and inferred about. Furthermore, my interests in algorithms, mathematics and statistics, can be well quenched when I partake in data science!
+
 ## Contact
   - Twitter : @Lehani_
   - E-mail : 21f1003574@student.onlinedegree.iitm.ac.in
