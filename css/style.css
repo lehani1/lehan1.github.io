@@ -1,11 +1,12 @@
 /*------Fonts--------*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
 
 
 
 /* ------- Variables ----------*/
 
 :root{
-    --main-color: #e02f6b;
+    --main-color: #ffffff;
     --blue: #0000ff;
     --blue-dark: #18293c;
     --orange: #ffa500;
@@ -38,8 +39,10 @@
 
 body{
     min-height: 100vh;
-    background-image: linear-gradient(to bottom right, var(--pink-light), var(--cyan-light));
+    background-image: url(../assets/bg_animated.gif);
     font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
     background-attachment: fixed;
     color: var(--blue-dark);
     line-height: 1.5;
@@ -55,7 +58,7 @@ body::before{
     top: 0;
     height: 100%;
     width: 100%;
-    background-color: var(--green-yellow);
+    background-color: var(--white);
     z-index: -1;
     opacity: 0.12;
 
@@ -77,6 +80,7 @@ h3,h4,h5,h6{
 
 img{
     max-width: 100%;
+    max-height: 50%;
     vertical-align: middle;
 }
 section{
