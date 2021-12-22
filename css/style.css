@@ -576,6 +576,7 @@ button{
     background-color: var(--white-alpha-25);
     border: 1px solid var(--white-alpha-40);
     border-radius: 10px;
+
 }
 
 .portfolio-item h3{
@@ -653,6 +654,7 @@ button{
 
 .pp-thumbnail img{
     border-radius: 10px;
+    width: 100%;
 }
 
 .pp-header h3{
