@@ -5,7 +5,7 @@
 
 ## Contact
   - Twitter : @Lehani_
-  - E-mail : 21f1003574@student.onlinedegree.iitm.ac.in
+  - E-mail : lehaniraj2002@gmail.com
 
 ## Education
   - Sophomore @ NIT Rourkela
