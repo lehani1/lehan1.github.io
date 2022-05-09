@@ -28,8 +28,4 @@
    - You can check the app by clicking [this link](https://madfinalproject.lehanirajraj.repl.co/) , it is hosted in replit.
    - You can check the repository by clikcing [this link](https://github.com/lehani1/FlashCard-App)
 
-### Project 2 : Ping App
-   - Under production, will be updated as soon as it is ready to deploy.
 
-
-#### Here's a construction joke ..................................... wait, I'm still working on it.
