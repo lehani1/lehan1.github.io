@@ -11,4 +11,5 @@
   - B. Tech  in Food Process Engineering @ NIT Rourkela
   - BS in Data science and AI @ IIT Madras
 
+  
 
