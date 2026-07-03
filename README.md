@@ -1,7 +1,9 @@
 ## Lehani's portfolio
 
 ## About me
-  Hello! I'm Lehani Raj. I like coding and AI..
+  Hello! I'm Lehani Raj. I like coding and AI.
+
+  I like to use frameworks that are not mainstream but are really good in their own niche. 
 
 ## Contact
   - Twitter : @Lehani_
